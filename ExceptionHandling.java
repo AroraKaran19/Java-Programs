@@ -1,7 +1,7 @@
 // 14. Write a Java program to implement exception handling. Use try, catch & finally.
 
 public class ExceptionHandling {
-    public static void main(String args[]){
+    public static void main(String[] args){
     	try{
         	int num = 50/0;
     	}
