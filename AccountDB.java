@@ -1,6 +1,6 @@
-// Write a Java program that creates a class accounts with following details:
-// Instance variables: ac_no., name, ac_name, balance
-// Methods: withdrawal (), deposit (), display ().use constructors to initialize members
+// 5. Write a Java program that creates a class accounts with following details:
+//    Instance variables: ac_no., name, ac_name, balance
+//    Methods: withdrawal (), deposit (), display ().use constructors to initialize members
 
 class Accounts{
     int ac_no;
