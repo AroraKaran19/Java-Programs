@@ -1,5 +1,5 @@
-// 17. Create a user defined exception named “nomatchexception” that is fired when the string
-//     entered by the user is not “india”.
+// 17. Create a user defined exception named "nomatchexception" that is fired when the string
+//     entered by the user is not "india".
 
 import java.util.Scanner;
 
